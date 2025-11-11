@@ -1,0 +1,16 @@
+terminal : super + enter
+fechar app : super + Q
+abrir rofi (gerenciador de apps) : super + D 
+maximizar janela : super + shift + F 
+maximizar janela (fake) : super + control + F 
+alternar janela entre area de trabalho : super + control + setinhas
+alternar foco entre monitores : super + setinhas
+abrir navegador : super + B
+escolher wallpaper : super + W
+escolher estilo da waybar : super + control + B
+escolher layout da waybar : super + alt + B
+tirar print da tela : super + print
+tirar print de uma região da tela : super + shift + print
+
+caso queire consultar mais comandos : nano ~/.config/hypr/UserConfigs/UserKeybinds.conf
+ou também pode clicar no botão "HINT!" da area de trabalho 
